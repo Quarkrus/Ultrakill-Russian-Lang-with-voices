@@ -1,4 +1,4 @@
-!Ultrakill-Russian-Lang-with-voices
+#Ultrakill-Russian-Lang-with-voices
 Гайд по скачиванию актуального русификатора на Ultrakill (с обновой на полный арсенал):
 
 (Ручная установка если у вас нет R2ModMan)
@@ -11,7 +11,7 @@
 7. Запускайте игру и заходите в настройки
 
 (Ручная установка если у вас есть R2ModMan)
-0. Ни в коем случае не скачивайте с него Ultrakull (там старая не рабочая версия), только отсюда [ultrakULL](https://github.com/ClearwaterUK/UltrakULL/releases/latest)
+Ни в коем случае не скачивайте с него Ultrakull (там старая не рабочая версия), только отсюда [ultrakULL](https://github.com/ClearwaterUK/UltrakULL/releases/latest)
 1. Откройте Р2МодМан и выберите профиль
 2. Нажмите в меню на "Settings"
 3. Выберите "Browse Profile Folder"
