@@ -2,7 +2,7 @@
 
 Гайд по скачиванию актуального русификатора на Ultrakill (с обновой на полный арсенал):
 - Во первых выберите вариант перевода который хотите в [Releases](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases) (Справа), и следуйте шагам (Для чайников)
-(Ручная установка если у вас нет R2ModMan)
+- (Ручная установка если у вас нет R2ModMan)
 1. Скачайте/купите/украдите ULTRAKILL.
 2. Скачайте мод [BeplnEx](https://thunderstore.io/c/ultrakill/p/BepInEx/BepInExPack) (Синие слова нажимаются)
 3. Из папки BeplnExPack в zip архиве перетащите все файлы в корневую папку с Ultrakill.
