@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/35cec5af-1919-4f47-9ca4-6ee083abd469)# Ultrakill-Russian-Lang-with-voices
+!Ultrakill-Russian-Lang-with-voices
 Гайд по скачиванию актуального русификатора на Ultrakill (с обновой на полный арсенал):
 
 (Ручная установка если у вас нет R2ModMan)
