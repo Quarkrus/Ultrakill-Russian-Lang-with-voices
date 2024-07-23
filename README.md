@@ -21,6 +21,6 @@
 4. Скачайте мод [ultrakULL](https://github.com/ClearwaterUK/UltrakULL/releases/latest)
 5. Из скачанного архива мода перекиньте папку Ultrakull по пути (Название вашего профиля, по стандарту Default)\BepInEx\plugins
 6. Скачайте нужный zip архив с [Releases](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases) (Справа) и распакуйте его в папке (Название вашего профиля, по стандарту Default)\BepInEx\config (выберите извлечь в текущую папку).
-7. Запускайте игру через Р2МодМан "Start Modded"
+7. Запускайте игру через Р2МодМан "Start Modded" и заходите в настройки
 
 P.S. Все варианты можно скачать и использовать одновременно, они не конфликтуют.
