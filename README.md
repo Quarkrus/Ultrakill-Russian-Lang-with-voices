@@ -14,9 +14,7 @@
 7. Запускайте игру и заходите в настройки
 
 (Ручная установка если у вас есть R2ModMan)
-
-Ни в коем случае не скачивайте с него Ultrakull (там старая не рабочая версия), только отсюда [ultrakULL](https://github.com/ClearwaterUK/UltrakULL/releases/latest)
-
+- Ни в коем случае не скачивайте с него Ultrakull (там старая не рабочая версия), только отсюда [ultrakULL](https://github.com/ClearwaterUK/UltrakULL/releases/latest)
 1. Если у вас скачан ULTRAKILL, откройте Р2МодМан и выберите профиль
 2. Нажмите в меню на "Settings"
 3. Выберите "Browse Profile Folder"
