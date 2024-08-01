@@ -1,6 +1,6 @@
 #Ultrakill-Russian-Lang-with-voices
 
-- Ссылка на статью в стиме [Руссификация ультракилла](https://steamcommunity.com/sharedfiles/filedetails/?id=3295127289)
+- Ссылка на статью в стиме [Русификация ультраубийства](https://steamcommunity.com/sharedfiles/filedetails/?id=3295127289)
 
 Гайд по скачиванию актуального русификатора на Ultrakill (с обновой на полный арсенал):
 - Во первых выберите вариант перевода который хотите в [Releases](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases) (Справа), и следуйте шагам (Для чайников)
