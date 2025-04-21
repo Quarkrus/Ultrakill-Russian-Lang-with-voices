@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "langName": "en-GB",
+        "langAuthor": "New Blood & Hakita",
+        "langVersion": "1.0.1",
+        "langDisplayName": "English",
+        "langRTL": "false",
+
+        "minimumModVersion": "1.3.0"
+    },
+
+    "body": {
+        "bodyName": "English translation. Effectively the same as the pre-existing English translation in the base game. Works with UltrakULL, but to be mainly used as a work template."
+    },
+
+    "devMuseum": {
+        "museum_bookHakita1": "<b>Heya!</b> Welcome to the developer museum. I'm Hakita, the lead developer of the game. I started off working on the game mostly by myself, but overtime the game has grown a lot and I've gotten so many wonderful people helping me out over the years, so here they all are!",
+        "museum_bookHakita2": "This museum was mostly created by Vvizard, with just touchups, iteration, writing and additional easter eggs by me. You can find him in the \"Rest Room\" down the hall and to the left.",
+        "museum_bookHakita3": "Take a look around! The first floor is for all the people who have helped out with the game's development and the second floor is all kinds of other neat development related things, like cut content and early versions of stuff. There's also plenty easter eggs hidden around the museum!",
+        "museum_bookHakita4": "Most developers will have a book like this in front of them, in which you can read details of how they helped in the creation of this game. Here's mine!",
+        "museum_bookHakita5": "<b><color=orange>HAKITA</color> - CREATOR OF ULTRAKILL</b>",
+        "museum_bookHakita6": "I started development on the game on February 1st, 2018. At the time it was just me, with FlyingDog and Toni Stigell making an occasional 3D model. While the development team has changed and grown since then, I still do the majority of the work myself... Just closer to like 60% of it now than the old 99%.",
+        "museum_bookHakita7": "My contributions include:",
+        "museum_bookHakita8": "- All direction, game design, sound design, story and animation",
+        "museum_bookHakita9": "- All level design, except this museum, the Sandbox and 5-S",
+        "museum_bookHakita10": "- All music, except some public domain songs and songs by guest composers (who you'll find down the hall and to the left)",
+        "museum_bookHakita11": "- Most writing, programming and art direction",
+        "museum_bookHakita12": "- Just in general, if it's in the game, I had my finger in that pie",
+        "museum_bookHakita13": "Thank you for playing, and hopefully enjoying, ULTRAKILL. It's insane to me that a passion project I started just based on what I thought was fun in games has grown to be such a massive success. I've met so many amazing people thanks to this game and the community that has grown around it has been a source of much joy (and plenty of anguish) in my life. It's a rare gift to be able to not only create a work like this with full creative control, but also to be able to make a living off my own art without having to compromise on my vision, and it's all thanks to New Blood, all the developers here in this museum, and most importantly... <b>YOU!</b>",
+
+        "museum_bookFrancisXie1": "<b><color=#4AACBD>FRANCIS XIE</color> - CONCEPT AND TEXTURE ARTIST</b>",
+        "museum_bookFrancisXie2": "Francis joined the team in 2021, around the start of the Wrath layer's development, when he was picked up as a general artist for New Blood thanks to his incredible ULTRAKILL fanart.",
+        "museum_bookFrancisXie3": "Some of his biggest contributions include:",
+        "museum_bookFrancisXie4": "- The designs for the Leviathan, Ferryman, and the pre-corpse version of Minos and Sisyphus, as well as their portraits.",
+        "museum_bookFrancisXie5": "- The design for the church organ in 6-2: AESTHETICS OF HATE",
+        "museum_bookFrancisXie6": "- The design for a cut weapon called the Beamcutter",
+        "museum_bookFrancisXie7": "- The unique level textures for 5-3: SHIP OF FOOLS as well as almost all the textures in the Heresy layer",
+        "museum_bookFrancisXie8": "- The plushie designs of all the developers",
+        "museum_bookFrancisXie9": "\"I simply wouldn't be here without this game and I'm so happy it's ULTRAKILL. Thank you Hakita, the rest of the dev team, and everyone in New Blood for being such great people who always support what I do. Special thanks to my best friend who urged me to pursue what I truly love; being a part of this team has been a dream come true. Here's to the greatest project!\"",
+
+        "museum_bookJerichoRus1": "<b><color=orange>JERICHO_RUS</color> - CONCEPT AND TEXTURE ARTIST</b>",
+        "museum_bookJerichoRus2": "Jericho joined the team in 2019, shortly before the original Prelude demo's release. He's responsible for many of the game's character designs and most of its weapon designs, as well as all the level textures for layers 2-4 and some textures for the Wrath layer.",
+        "museum_bookJerichoRus3": "Some of his biggest contributions include:",
+        "museum_bookJerichoRus4": "- The designs for V1 and Gabriel",
+        "museum_bookJerichoRus5": "- The designs for many enemies, such as the Drone, Streetcleaner and Soldier",
+        "museum_bookJerichoRus6": "- The designs for all weapons and alternate weapons, with the exceptions of the original revolver and shotgun",
+        "museum_bookJerichoRus7": "- The main promo art, which is used as the game's cover art",
+        "museum_bookJerichoRus8": "- Most level textures, including all level textures for layers 2-4",
+        "museum_bookJerichoRus9": "- All the art for 2-S",
+        "museum_bookJerichoRus10": "\"Hi, thank you to the rest of the dev team and you guys for enjoying what we create. I've met many wonderful people through ULTRAKILL's development and hope to continue doing so. Shoutout to SXBIG and Luvoid!\"",
+
+        "museum_bookBigRockBMP1": "<b><color=#DA6B6D>BIGROCKBMP</color> - CONCEPT ARTIST</b>",
+        "museum_bookBigRockBMP2": "BigRock joined the team in early 2019, during the Prelude's development. He was the first concept artist for the game and responsible for the designs for many of the game's bosses, such as the game's first ever character design, the Swordsmachine.",
+        "museum_bookBigRockBMP3": "Some of his biggest contributions include:",
+        "museum_bookBigRockBMP4": "- The designs for many of the game's bosses, such as the Swordsmachine, the Corpse of King Minos, and the Hideous Mass",
+        "museum_bookBigRockBMP5": "- The designs for many of the game's enemies, such as the Mindflayer, the Idol and the Sentry",
+        "museum_bookBigRockBMP6": "- The designs for all of the bosses in the Prime Sanctums",
+        "museum_bookBigRockBMP7": "- The painting of the rocket launcher wielding Ferryman in 5-3: SHIP OF FOOLS",
+        "museum_bookBigRockBMP8": "\"When Hakita asked me to design a boss for his game I had no idea that ULTRAKILL would become this big. To see so many people draw fanart of the characters I've designed is both intimidating as it is inspiring me to continue, try and grow as an artist, and I hope my work inspires someone to pick up a pencil as well.\"",
+
+        "museum_bookMaximilianOvesson1": "<b><color=#8f65da>MAXIMILIAN OVESSON</color> - UI ARTIST</b>",
+        "museum_bookMaximilianOvesson2": "Maximilian joined the team in 2018, early in the game's development. He's responsible for the weapon icons used in the UI, the game over skull animation as well as the game's logo.",
+        "museum_bookMaximilianOvesson3": "\"I'm proud to have played a small role in creating ULTRAKILL and grateful for the opportunity to be a part of this game. Thank you for having me and thank you to all the players for your support.\"",
+
+        "museum_bookVictoriaHolland1": "<b><color=#F5ABB9>VICTORIA HOLLAND</color> - LEAD 3D ARTIST AND GRAPHICS PROGRAMMER</b>",
+        "museum_bookVictoriaHolland2": "Victoria joined the team in early 2020, late into the Limbo layer's development. She started off working alongside Sam but from Act 2 onwards, she's been responsible for all 3D models in the game with the only exception of the Sisyphean Insurrectionist. She also handles the programming of all shaders and almost all graphical systems and optimizations.",
+        "museum_bookVictoriaHolland3": "Some of her biggest contributions include:",
+        "museum_bookVictoriaHolland4": "- Many of the Act 1 models, including the Filth, the Corpse of King Minos and the Railcannon",
+        "museum_bookVictoriaHolland5": "- All of the Act 2 models, except the Sisyphean Insurrectionist",
+        "museum_bookVictoriaHolland6": "- Programming for all the shaders",
+        "museum_bookVictoriaHolland7": "- Programming for most graphical systems and optimizations",
+        "museum_bookVictoriaHolland8": "\"Waste no time to fear. Take the leap and embrace the person you want to be. You're not alone, so live your authentic self, and always enjoy the journey.\"",
+
+        "museum_bookToniStigell1": "<b><color=orange>TONI STIGELL</color> - 3D ARTIST</b>",
+        "museum_bookToniStigell2": "Toni Stigell joined the team right around the start of development in early 2018. We had previously worked together on a few small projects including a now-cancelled stealth game called Untraceable, which is the origin of the thinking man statue that eventually became Cerberus.",
+        "museum_bookToniStigell3": "Alongside that, he modelled many of the early character models for ULTRAKILL until leaving the project in mid 2019. He also made the original Filth model's animations, and though those have since been replaced, Something Wicked still uses one of them, making that the only animation in the game that I haven't made myself.",
+        "museum_bookToniStigell4": "Some of his biggest contributions include:",
+        "museum_bookToniStigell5": "- The original models for the husks, Swordsmachine and Feedbacker arm",
+        "museum_bookToniStigell6": "- The design for the original version of the Filth",
+        "museum_bookToniStigell7": "- Getting me into DMC in the first place",
+
+        "museum_bookFlyingDog1": "<b><color=#6a36be>FLYINGDOG</color> - 3D ARTIST</b>",
+        "museum_bookFlyingDog2": "FlyingDog joined the team right at the start of development in early 2018, designing and creating many of the first 3D models and their textures. Although most of these models have since been remade and replaced, they're still based on his original designs and many of his original models can still be seen here and there as easter eggs. His final contribution to the game was the texture for the Feedbacker arm in mid 2019.",
+        "museum_bookFlyingDog3": "Some of his biggest contributions include:",
+        "museum_bookFlyingDog4": "- The designs and original models for the revolver, shotgun and Malicious Face",
+        "museum_bookFlyingDog5": "- The original model and texture for the nailgun",
+        "museum_bookFlyingDog6": "- The textures for the original versions of the husks and Swordsmachine",
+
+        "museum_bookSamuelJamesBryan1": "<b><color=orange>SAMUEL JAMES BRYAN</color> - 3D ARTIST</b>",
+        "museum_bookSamuelJamesBryan2": "Sam joined in mid 2019, early into the Limbo layer's development and is responsible for modelling most of the enemies in Act 1, including V1, V2 and Gabriel. His last modelling work for the game was the Sisyphean Insurrectionist in early 2021 and he has mostly moved on to different projects since then, though he still occasionally helps out with feedback and modelling advice.",
+        "museum_bookSamuelJamesBryan3": "\"No idea, ask Hakita.\"",
+
+        "museum_bookQATeam1": "<b><color=red>CAMERON MARTIN</color> - QUALITY ASSURANCE LEAD",
+        "museum_bookQATeam2": "<color=#6a36be>DALIA FIGUEROA</color> - QUALITY ASSURANCE, PROMO FOOTAGE & SCREENSHOTS",
+        "museum_bookQATeam3": "<color=#11c324>TUCKER WILKIN</color> - SENIOR QUALITY ASSURANCE",
+        "museum_bookQATeam4": "<color=#e28eb6>SCOTT GURNEY</color> - TECHNICAL QUALITY ASSURANCE</b>",
+        "museum_bookQATeam5": "The New Blood QA team (Cameron, Dalia, Tucker and Scott) are responsible for making sure the game runs properly and without any major bugs. It's thanks to them that ULTRAKILL looks and feels like a functioning game despite being a mess of duct tape, spaghetti, glue and prayers underneath. Prior to ULTRAKILL joining the New Blood catalogue, I had to do QA myself, and even that smaller amount of bugtesting makes me question how these people manage to stay sane.",
+        "museum_bookQATeam6": "...Well, relatively sane.",
+        "museum_bookQATeam7": "\"In the immortal words of the great Hungarian centre-forward Nandor Hidegkuti - 'Amikor eljön a forradalom, a zeneipar lesz az első amely menni fog. Köszönöm szépen'\"",
+        "museum_bookQATeam8": "\"Be it games, music, movies or the company of others, be sure to enjoy the good times that you experience and always look back on life with a positive note. Life is precious, and after all, It's your own show. Enjoy your life to its fullest and give everyone respect and love. A smile on someone's face is worth its weight in gold!\"",
+        "museum_bookQATeam9": "\"Of all the scars on my psyche, this one will always remain a favored one. from that cursed door to the accidental spawner arm slip, its been a great time regardless! Sometimes videogames can be cool as hell. hopefully we can get more of them!\"",
+        "museum_bookQATeam10": "\"Being able to help bring to fruition a strong creative vision like Hakita's has been an absolute honor and an unforgettable experience. I will remain forever grateful for the opportunity, and I look forward to whatever might come next!\"",
+
+        "museum_bookPitr1": "<b><color=orange>PITR</color> - LEAD PROGRAMMER</b>",
+        "museum_bookPitr2": "PITR already started helping out with programming in late 2019, but was officially added to the team in early 2020 thanks to his ULTRAKILL mods and an early attempt at a custom level system. He's responsible for most advanced programming in the game, such as systems like cheats, Cyber Grind patterns and subtitles. He also created the entirety of the Sandbox and 5-S, with only minor aesthetic touch-ups from me.",
+        "museum_bookPitr3": "Basically, if you look at the game's code and see anything that's actually done well, it's probably by him.",
+        "museum_bookPitr4": "Some of his biggest contributions include:",
+        "museum_bookPitr5": "- Programming and level design for the Sandbox and 5-S",
+        "museum_bookPitr6": "- Programming for most of the advanced systems like cheats, Cyber Grind patterns and subtitles",
+        "museum_bookPitr7": "- Lots of programming optimization and bugfixes",
+        "museum_bookPitr8": "- Lots of miscellaneous programming help",
+
+        "museum_bookHeckteck1": "<b><color=orange>HECKTECK</color> - ADDITIONAL PROGRAMMING</b>",
+        "museum_bookHeckteck2": "Heckteck was brought onto the team temporarily in early 2022 and full-time in 2023 thanks to their experience and skills making mods for ULTRAKILL, to overhaul the style system to include staleness as well as other related quality of life features. They also created the jukebox system for the Cyber Grind, the new multi-bind system and other quality of life features.",
+        "museum_bookHeckteck3": "\"the harvest is lacking this year\"",
+
+        "museum_bookCabalcrow1": "<b><color=#c0c0c0ff>EMANUIL \"CABALCROW\" CHIZHOV</color> - ADDITIONAL PROGRAMMER</b>",
+        "museum_bookCabalcrow2": "CabalCrow was one of the first hardcore ULTRAKILL fans who helped spark the game's speedrunning scene. He also helped out a lot with figuring out bugs before the game got a QA team and recorded most of the trailer footage in early trailers. His programming contribution comes in the form of the climbstep system he created in 2020, which allows players to smoothly step onto and over small ledges and obstacles.",
+        "museum_bookCabalcrow3": "\"you know what they say: 50 bucks is 50 bucks\"",
+
+        "museum_bookLucasVarney1": "<b><color=#BD8BF3>LUCAS VARNEY</color> - ADDITIONAL PROGRAMMER</b>",
+        "museum_bookLucasVarney2": "Lucas is another New Blood programmer, mostly working on his own game but occasionally jumping in to help with ULTRAKILL when needed. His contributions have been mostly optimization related, helping make the game run better as well as creating development tools that allow for easier per-level optimization.",
+        "museum_bookLucasVarney3": "Many thanks to everyone here, including you, the one reading this! It's always been my dream to work on video games, but I never thought I'd be 'good enough' to do it professionally. I dropped out of high school early due to anxiety and I really felt like I was throwing my life away. But I never gave up, and I never will! Whoever you are out there, never lose hope, and always know that there's no shame in being yourself and doing the things you love, so long as nobody gets hurt. You're more than your label, and you're worth more than your credentials. Enjoy the little moments, embrace what makes you happy, and be the best person you can be.\"",
+
+        "museum_bookBenMoir1": "<b><color=#3EF242>BEN MOIR</color> - ADDITIONAL PROGRAMMER</b>",
+        "museum_bookBenMoir2": "Ben aka \"Zombie\" is New Blood's resident programming wizard. He hops around from project to project, fixing tricky issues and giving general programming advice. If there's a problem, he knows the solution.",
+        "museum_bookBenMoir3": "Although most of his work on ULTRAKILL is in the form of helping other programmers, he has himself also programmed some of the systems in the game, such as the controller support and the auto aim assist.",
+        "museum_bookBenMoir4": "\"Hey, Hakita! Can we say 'fuck' in the game?\"",
+
+        "museum_bookMeganeko1": "<b><color=#E93436>MEGANEKO</color> - GUEST COMPOSER</b>",
+        "museum_bookMeganeko2": "I met Meganeko in early 2020 after BigRock, who is a fan of his, noticed he followed the ULTRAKILL Twitter account and asked if he'd be interested in collaborating. Originally I didn't have anything specific in mind, but once he sent me a soundtest clip that showed the kind of sound he'd go for, it immediately struck me as the perfect music for an endless survival mode.",
+        "museum_bookMeganeko3": "That soundtest eventually, through months of iteration, became The Cyber Grind's titular background music. In a way, you can thank him for causing the creation of that mode.",
+        "museum_bookMeganeko4": "\"Playing the alpha demo got me incredibly inspired! Getting to channel that back into the game was a bit surreal. Big thanks to Hakita and BigRock for reaching out!\"",
+
+        "museum_bookKeygenChurch1": "<b><color=#aa0000>KEYGEN CHURCH</color> - GUEST COMPOSER</b>",
+        "museum_bookKeygenChurch2": "Keygen Church aka Master Boot Record approached me in mid-late 2022, and I was already a fan of his music as Keygen Church, so I was very happy to have him on board as a guest composer. The timing was perfect as well, since his style fits so well with the aesthetics of the Heresy layer, so he created the first battle theme for P-2, titled \"Tenebre Rosso Sangue\".",
+        "museum_bookKeygenChurch3": "We also collaborated on the connected ARG, with him doing most of the heavy lifting since he had already done similar things with his projects.",
+        "museum_bookKeygenChurch4": "\"Low Resolution. High Imagination. Praise the code.\"",
+
+        "museum_bookHealth1": "<b><color=red>HEALTH</color> - GUEST COMPOSER</b>",
+        "museum_bookHealth2": "<b><color=red>BENJAMIN MILLER</color> - DRUMS",
+        "museum_bookHealth3": "<color=red>JACOB DUZSIK</color> - VOCALS, GU
