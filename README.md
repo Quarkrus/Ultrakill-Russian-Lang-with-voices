@@ -13,7 +13,7 @@
 
 ### Ручная установка если у вас нет R2ModMan и лицензии:
 1. Скачайте/купите/украдите ULTRAKILL
-2. Скачайте zip архив [UltraRus](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/UltraRus) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку)
+2. Скачайте zip архив [UltraRus](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/UltraRus) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку, если у вас уже стоит беплинекс, то выберите заменить)
 3. Запускайте игру.
 ---
 ### Ручная установка если у вас есть R2ModMan:
