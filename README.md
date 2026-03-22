@@ -1,6 +1,6 @@
 Последнее обновление: 19.03.2026
 ### Ссылка на статью в Steam: [ПОЛНЫЙ И АКТУАЛЬНЫЙ РУСИФИКАТОР](https://steamcommunity.com/sharedfiles/filedetails/?id=3606721877)
-### Ссылка на страницу мода в Thunderstore [UltraRus](https://thunderstore.io/c/ultrakill/p/InTeamRus/UltraRus/)
+### Ссылка на страницу мода в Thunderstore: [UltraRus](https://thunderstore.io/c/ultrakill/p/InTeamRus/UltraRus/)
 ---
 ### Гайд по скачиванию актуального русификатора на Ultrakill (8 слой, Патч-фикс)
 - Произошли некоторые изменения, теперь мод и перевод встроенны в один архив.
