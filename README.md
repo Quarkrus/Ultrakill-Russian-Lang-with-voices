@@ -2,6 +2,7 @@
 # Гайд по скачиванию русификатора на Ultrakill (8 слой, 17c)
 ## Ссылка на статью в Steam: [УЛЬТРАРУСИФИКАТОР](https://steamcommunity.com/sharedfiles/filedetails/?id=3606721877)
 ## Ссылка на страницу в Thunderstore: [UltraRus](https://thunderstore.io/c/ultrakill/p/InTeamRus/UltraRus/)
+## Ссылка на канал мода в Discord: [UltrakULL](https://discord.gg/WAD9eNDfvF)
 # ~Лог~ Изменения:
 
 - 26.02: Добавлены описания новых врагов и названия уровней
