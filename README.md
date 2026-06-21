@@ -294,7 +294,7 @@
 4. ~Запускайте игру через R2ModMan "Start modded".~
 ---
 ### Доступные моды на русском (В качестве аддонов для русификатора)
-- Русская рыбалка: [UlraRusFishing](https://thunderstore.io/c/ultrakill/p/Quarkrus/UltraRusFishing/)
+- Русская рыбалка: [UltraRusFishing](https://thunderstore.io/c/ultrakill/p/Quarkrus/UltraRusFishing/)
 ---
 ### Что такое Альт. переводы?
 Альтернативные варианты переводов содержат только конфиг и не будут работать без основного перевода, их точно также нужно распаковать в папке игры либо профиля. 
