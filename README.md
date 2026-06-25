@@ -1,8 +1,9 @@
 Последнее обновление: 25.06.2026
 # Гайд по скачиванию русификатора на Ultrakill (8 слой, 17d4)
 ## Ссылка на статью в Steam: [УЛЬТРАРУСИФИКАТОР](https://steamcommunity.com/sharedfiles/filedetails/?id=3606721877)
+## Ссылка на канал мода в Discord: [UltrakULL ReFORKED](https://discord.gg/WAD9eNDfvF)
 ## Ссылка на страницу в Thunderstore: [UltraRus](https://thunderstore.io/c/ultrakill/p/Quarkrus/UltraRus/)
-## Ссылка на канал мода в Discord: [UltrakULL](https://discord.gg/WAD9eNDfvF)
+## Ссылка на страницу в NexusMods: [UltraRus](https://www.nexusmods.com/ultrakill/mods/196)
 
 ---
 
