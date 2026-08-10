@@ -303,15 +303,15 @@
 
 ---
 
-### Теперь содержит две версии перевода:
-- Изначальный ([Legacy](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/Legacy))
-- Новый ([InTeam](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/InTeam))
+### Мод теперь содержит две версии перевода:
+- Изначальный с разработки UltrakULL
+- Новый от команды InTeam
 
 ---
 
 ### Ручная установка если у вас НЕТ R2ModMan или Overwolf и лицензии:
 1. Скачайте/купите/украдите ULTRAKILL
-2. Скачайте zip архив из [Релизов](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку, если у вас уже стоит BeplnEx, то выберите заменить)
+2. Скачайте zip архив [UltraRus](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/UltraRus) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку, если у вас уже стоит BeplnEx, то выберите заменить)
 3. Запускайте игру.
 ---
 ### Простая установка если у вас ЕСТЬ R2ModMan или Overwolf и лицензия:
