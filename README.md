@@ -1,10 +1,10 @@
-Последнее обновление: 06.08.2026
+Последнее обновление: 10.08.2026
 # Гайд по скачиванию русификатора на Ultrakill (8 слой, 17d4)
 ## Ссылка на статью в Steam: [УЛЬТРАРУСИФИКАТОР](https://steamcommunity.com/sharedfiles/filedetails/?id=3606721877)
 ## Ссылка на канал мода в Discord: [UltrakULL ReFORKED](https://discord.gg/WAD9eNDfvF)
 ## Ссылка на страницу в Thunderstore: [UltraRus](https://thunderstore.io/c/ultrakill/p/Quarkrus/UltraRus/)
 ## Ссылка на страницу в NexusMods: [UltraRus](https://www.nexusmods.com/ultrakill/mods/196)
-## Ссылка на тг канал других переводчиков (И озвучки в том числе): [InTeam](https://t.me/InTeamDUB)
+## Ссылка на тг канал новых переводчиков: [InTeam](https://t.me/In_Team_Translate)
 
 ---
 
@@ -294,13 +294,24 @@
 - InTeam: Добавлена озвучка Власти
 - InTeam: Изменена озвучка Сизифа, Миноса, Рыцаря-друида и Совы
 </details>
+<details>
+  <summary>10.08:</summary>
+  
+- Добавлен перевод от команды InTeam (Стоит по умолчанию, но можно переключить на старый в настройках языка)
 </details>
+</details>
+
+---
+
+### Теперь содержит две версии перевода:
+- Изначальный ([Legacy](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/Legacy))
+- Новый ([InTeam](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/InTeam))
 
 ---
 
 ### Ручная установка если у вас НЕТ R2ModMan или Overwolf и лицензии:
 1. Скачайте/купите/украдите ULTRAKILL
-2. Скачайте zip архив [UltraRus](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases/tag/UltraRus) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку, если у вас уже стоит BeplnEx, то выберите заменить)
+2. Скачайте zip архив из [Релизов](https://github.com/Quarkrus/Ultrakill-Russian-Lang-with-voices/releases) и распакуйте его в папку ULTRAKILL (выберите извлечь в текущую папку, если у вас уже стоит BeplnEx, то выберите заменить)
 3. Запускайте игру.
 ---
 ### Простая установка если у вас ЕСТЬ R2ModMan или Overwolf и лицензия:
