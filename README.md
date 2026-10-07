@@ -1,10 +1,9 @@
-Последнее обновление: 30.09.2026
+Последнее обновление: 07.10.2026
 # Гайд по скачиванию русификатора на Ultrakill (8 слой, 17d4)
 ## Ссылка на статью в Steam: [УЛЬТРАРУСИФИКАТОР](https://steamcommunity.com/sharedfiles/filedetails/?id=3606721877)
 ## Ссылка на канал мода в Discord: [UltrakULL ReFORKED](https://discord.gg/WAD9eNDfvF)
 ## Ссылка на страницу в Thunderstore: [UltraRus](https://thunderstore.io/c/ultrakill/p/Quarkrus/UltraRus/)
 ## Ссылка на страницу в NexusMods: [UltraRus](https://www.nexusmods.com/ultrakill/mods/196)
-## Ссылка на тг канал новых переводчиков: [InTeam](https://t.me/In_Team_Translate)
 
 ---
 
@@ -331,13 +330,15 @@
 - Поправлен к оригиналу размер X в свежести оружия
 - Исправлено отображение настройки иконок (По умолчанию) в меню и в песочнице
 </details>
+<details>
+  <summary>07.10:</summary>
+
+- Убран перевод от InTeam в связи с халатностью
+- Обновлён шрифт
+- Исправлено сглаживание в главном меню
+- Исправлено отображение некоторых теней под текстом (Тестируется)
 </details>
-
----
-
-### Мод теперь содержит две версии перевода:
-- **Изначальный** с разработки UltrakULL
-- Новый от команды **InTeam**
+</details>
 
 ---
 
